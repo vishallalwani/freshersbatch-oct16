@@ -12,7 +12,7 @@ public class WaterTank extends Frame implements Runnable{
 	String cap="60";
 	
 	public WaterTank() {
-		super("Ball game");
+		super(" game");
 		setBackground(Color.CYAN);
 		setSize(500, 500);
 		setVisible(true);
